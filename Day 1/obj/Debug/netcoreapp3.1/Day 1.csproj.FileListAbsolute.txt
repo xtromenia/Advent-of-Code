@@ -1,0 +1,13 @@
+C:\Users\xtrom\source\repos\Calendar\Day 1\obj\Debug\netcoreapp3.1\Day 1.csprojAssemblyReference.cache
+C:\Users\xtrom\source\repos\Calendar\Day 1\obj\Debug\netcoreapp3.1\Day 1.AssemblyInfoInputs.cache
+C:\Users\xtrom\source\repos\Calendar\Day 1\obj\Debug\netcoreapp3.1\Day 1.AssemblyInfo.cs
+C:\Users\xtrom\source\repos\Calendar\Day 1\obj\Debug\netcoreapp3.1\Day 1.csproj.CoreCompileInputs.cache
+C:\Users\xtrom\source\repos\Calendar\Day 1\bin\Debug\netcoreapp3.1\Day 1.exe
+C:\Users\xtrom\source\repos\Calendar\Day 1\bin\Debug\netcoreapp3.1\Day 1.deps.json
+C:\Users\xtrom\source\repos\Calendar\Day 1\bin\Debug\netcoreapp3.1\Day 1.runtimeconfig.json
+C:\Users\xtrom\source\repos\Calendar\Day 1\bin\Debug\netcoreapp3.1\Day 1.runtimeconfig.dev.json
+C:\Users\xtrom\source\repos\Calendar\Day 1\bin\Debug\netcoreapp3.1\Day 1.dll
+C:\Users\xtrom\source\repos\Calendar\Day 1\bin\Debug\netcoreapp3.1\Day 1.pdb
+C:\Users\xtrom\source\repos\Calendar\Day 1\obj\Debug\netcoreapp3.1\Day 1.dll
+C:\Users\xtrom\source\repos\Calendar\Day 1\obj\Debug\netcoreapp3.1\Day 1.pdb
+C:\Users\xtrom\source\repos\Calendar\Day 1\obj\Debug\netcoreapp3.1\Day 1.genruntimeconfig.cache

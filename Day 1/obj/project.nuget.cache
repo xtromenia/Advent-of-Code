@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pQupPMua9Viw/8CUFvG8MmUmIJ+MFvO1aTPOXeynloi8S0ua041NPqSYuUuKmpic4zAgFAOXtM/ID74bvbeOkA==",
+  "dgSpecHash": "eTJShJb7uoqtnlnhr+R2waAmYcOHfktB5KtY9a4dENDW8LF9/O7kV5TpVZ0L2O3Vizpc3dNitCOC5yhhUI5CWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\xtrom\\source\\repos\\Calendar\\Advent of Code\\Advent of Code.csproj",
+  "projectFilePath": "C:\\Users\\xtrom\\source\\repos\\Calendar\\Day 1\\Day 1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

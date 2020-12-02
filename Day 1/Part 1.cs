@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Advent_of_Code
+namespace Calendar
 {
     class Program
     {
@@ -209,6 +209,8 @@ namespace Advent_of_Code
 1967
 1778";
 
+            /*Part 1*/
+
             List<int> intList = numbers.Split("\n").Select(int.Parse).ToList();
 
             for (int i = 0; i < intList.Count; i++)
@@ -217,8 +219,26 @@ namespace Advent_of_Code
 
                 if (intList.IndexOf(temp) != -1)
                 {
-                    Console.WriteLine(intList[intList.IndexOf(temp)]);
+                    Console.Write(intList[intList.IndexOf(temp)] + " ");
                     Console.WriteLine(intList[i]);
+                    break;
+                }
+            }
+
+            /*Part 2*/
+
+            for (int i = 0; i < intList.Count - 2; i++)
+            {
+                for (int j = i + 1; j < intList.Count - 1; j++)
+                {
+                    for (int k = j + 1; k < intList.Count; k++)
+                    {
+                        if (intList[i] + intList[j] + intList[k] == 2020)
+                        {
+                            Console.WriteLine(intList[i] + " " + intList[j] + " " + intList[k]);
+                            break;
+                        }
+                    }
                 }
             }
         }

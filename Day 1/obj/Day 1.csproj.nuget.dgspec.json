@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xtrom\\source\\repos\\Calendar\\Advent of Code\\Advent of Code.csproj": {}
+    "C:\\Users\\xtrom\\source\\repos\\Calendar\\Day 1\\Day 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xtrom\\source\\repos\\Calendar\\Advent of Code\\Advent of Code.csproj": {
+    "C:\\Users\\xtrom\\source\\repos\\Calendar\\Day 1\\Day 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xtrom\\source\\repos\\Calendar\\Advent of Code\\Advent of Code.csproj",
-        "projectName": "Advent of Code",
-        "projectPath": "C:\\Users\\xtrom\\source\\repos\\Calendar\\Advent of Code\\Advent of Code.csproj",
+        "projectUniqueName": "C:\\Users\\xtrom\\source\\repos\\Calendar\\Day 1\\Day 1.csproj",
+        "projectName": "Day 1",
+        "projectPath": "C:\\Users\\xtrom\\source\\repos\\Calendar\\Day 1\\Day 1.csproj",
         "packagesPath": "C:\\Users\\xtrom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xtrom\\source\\repos\\Calendar\\Advent of Code\\obj\\",
+        "outputPath": "C:\\Users\\xtrom\\source\\repos\\Calendar\\Day 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xtrom\\AppData\\Roaming\\NuGet\\NuGet.Config",
